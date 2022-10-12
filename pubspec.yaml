@@ -1,4 +1,4 @@
-name: cloud_tasks
+name: gcp_cloud_tasks
 description: A small package to make interacting with Google Cloud Tasks easier.
 version: 0.1.0-dev.1
 publish_to: none

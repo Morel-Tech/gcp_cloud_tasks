@@ -1,5 +1,5 @@
-import 'package:cloud_tasks/cloud_tasks.dart';
 import 'package:current_gcp_project/current_gcp_project.dart';
+import 'package:gcp_cloud_tasks/gcp_cloud_tasks.dart';
 import 'package:googleapis/cloudtasks/v2.dart';
 import 'package:googleapis_auth/auth_io.dart';
 import 'package:http/http.dart';
